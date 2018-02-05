@@ -4,4 +4,7 @@
     <mouse-shortcut keystroke="control alt button1" />
   </action>
   <action id="IntroduceVariable" />
+  <action id="XPathView.Actions.Evaluate" />
+  <action id="XPathView.Actions.FindByExpression" />
+  <action id="XPathView.Actions.ShowPath" />
 </keymap>
