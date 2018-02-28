@@ -4,6 +4,7 @@
     <mouse-shortcut keystroke="control alt button1" />
   </action>
   <action id="IntroduceConstant" />
+  <action id="IntroduceField" />
   <action id="IntroduceVariable" />
   <action id="QuickChangeScheme" />
   <action id="XPathView.Actions.Evaluate" />
