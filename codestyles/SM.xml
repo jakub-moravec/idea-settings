@@ -1,10 +1,14 @@
-<code_scheme name="SM">
+<code_scheme name="SM" version="173">
   <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="999" />
   <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="2" />
   <option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
     <value />
   </option>
   <JavaCodeStyleSettings>
-    <option name="CLASS_NAMES_IN_JAVADOC" value="2" />
+    <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="999" />
+    <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="2" />
+    <option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
+      <value />
+    </option>
   </JavaCodeStyleSettings>
 </code_scheme>
