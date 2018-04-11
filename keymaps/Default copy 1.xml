@@ -1,8 +1,10 @@
 <keymap version="1" name="Default copy 1" parent="$default">
+  <action id="Console.TableResult.SetNull" />
   <action id="GotoCustomRegion" />
   <action id="GotoImplementation">
     <mouse-shortcut keystroke="control alt button1" />
   </action>
+  <action id="Inline" />
   <action id="IntroduceConstant" />
   <action id="IntroduceField" />
   <action id="IntroduceVariable" />
