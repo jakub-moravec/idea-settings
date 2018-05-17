@@ -1,10 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Directory '...\manta-dataflow-repository-persistence\manta-dataflow-repository-persistence-api [manta-dataflow-repository-persistence-api]'" />
-    <option name="defaultScopeName" value="Directory '...\manta-dataflow-repository-persistence\manta-dataflow-repository-persistence-api [manta-dataflow-repository-persistence-api]'" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '...\manta-dataflow-repository-persistence\manta-dataflow-repository-persistence-api [manta-dataflow-repository-persistence-api]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
