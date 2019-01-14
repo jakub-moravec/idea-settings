@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Internal\DataFlow\Repository\Public\trunk\manta-dataflow-repository-public-client\src\main\java\eu\profinit\manta\dataflow\repository\publicapi\client\impl\PublicApiAtomicServiceCached.java [manta-dataflow-repository-public-client]'" />
-    <option name="defaultScopeName" value="File '...\Internal\DataFlow\Repository\Public\trunk\manta-dataflow-repository-public-client\src\main\java\eu\profinit\manta\dataflow\repository\publicapi\client\impl\PublicApiAtomicServiceCached.java [manta-dataflow-repository-public-client]'" />
-    <option name="SEARCH_SCOPE" value="File '...\Internal\DataFlow\Repository\Public\trunk\manta-dataflow-repository-public-client\src\main\java\eu\profinit\manta\dataflow\repository\publicapi\client\impl\PublicApiAtomicServiceCached.java [manta-dataflow-repository-public-client]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
