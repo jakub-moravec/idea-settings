@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*xml" />
+    <option name="FILE_MASK" value="*css" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -22,8 +22,8 @@
     <mask>*ftl</mask>
     <mask>*pom.xml</mask>
     <mask>*js</mask>
-    <mask>*css</mask>
     <mask>*codemirror.js</mask>
     <mask>*xml</mask>
+    <mask>*css</mask>
   </component>
 </application>
