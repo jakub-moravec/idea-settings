@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*json" />
+    <option name="FILE_MASK" value="*xml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -17,14 +17,14 @@
     <mask>.*ftl</mask>
     <mask>CSV*java</mask>
     <mask>xml</mask>
-    <mask>*java</mask>
     <mask>*ftl</mask>
     <mask>*pom.xml</mask>
     <mask>*codemirror.js</mask>
-    <mask>*xml</mask>
     <mask>*js</mask>
     <mask>*css</mask>
     <mask>*properties</mask>
     <mask>*json</mask>
+    <mask>*java</mask>
+    <mask>*xml</mask>
   </component>
 </application>
