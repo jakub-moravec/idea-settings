@@ -1,10 +1,11 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="CLI decryption" />
-    <option name="defaultScopeName" value="CLI decryption" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="CLI decryption" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*xml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -26,8 +27,8 @@
     <mask>*json</mask>
     <mask>*ftl</mask>
     <mask>*scenario.xml</mask>
-    <mask>*xml</mask>
     <mask>*mssql*</mask>
     <mask>*java</mask>
+    <mask>*xml</mask>
   </component>
 </application>
