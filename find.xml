@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '...\Products\Imm\trunk\manta-dataflow-imm-cli\pom.xml [manta-dataflow-imm-cli]'" />
-    <option name="defaultScopeName" value="File '...\Products\Imm\trunk\manta-dataflow-imm-cli\pom.xml [manta-dataflow-imm-cli]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\Products\Imm\trunk\manta-dataflow-imm-cli\pom.xml [manta-dataflow-imm-cli]'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
