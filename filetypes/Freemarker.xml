@@ -8,9 +8,6 @@
       <option name="NUM_POSTFIXES" value="" />
     </options>
     <keywords keywords="assign;attempt;autoesc;break;case;compress;continue;default;else;elseif;escape;fallback;flush;ftl;function;global;if;import;include;items;list;local;lt;macro;nested;noautoesc;noescape;noparse;nt;outputformat;recover;recurse;return;rt;sep;setting;stop;switch;t;visit" ignore_case="false" />
-    <keywords2 />
-    <keywords3 />
-    <keywords4 />
   </highlighting>
   <extensionMap>
     <mapping ext="ftl" />
