@@ -22,7 +22,6 @@
     <mask>*properties</mask>
     <mask>*scenario.xml</mask>
     <mask>*mssql*</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.ftl</mask>
     <mask>*xml</mask>
@@ -33,5 +32,6 @@
     <mask>*js</mask>
     <mask>*java</mask>
     <mask>pom.xml</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
