@@ -22,7 +22,6 @@
     <mask>*mssql*</mask>
     <mask>*.java</mask>
     <mask>*.ftl</mask>
-    <mask>*xml</mask>
     <mask>*igc*</mask>
     <mask>*ftl</mask>
     <mask>*js*</mask>
@@ -31,5 +30,6 @@
     <mask>*.xml</mask>
     <mask>*json</mask>
     <mask>pom.xml</mask>
+    <mask>*xml</mask>
   </component>
 </application>
