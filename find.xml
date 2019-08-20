@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Internal\Configuration\trunk\manta-configuration-logic\src\main\java\eu\profinit\manta\configuration\logic\helper\ClassloaderFactoryImpl.java [manta-configuration-logic]'" />
-    <option name="defaultScopeName" value="File '...\Internal\Configuration\trunk\manta-configuration-logic\src\main\java\eu\profinit\manta\configuration\logic\helper\ClassloaderFactoryImpl.java [manta-configuration-logic]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
-    <option name="SEARCH_SCOPE" value="File '...\Internal\Configuration\trunk\manta-configuration-logic\src\main\java\eu\profinit\manta\configuration\logic\helper\ClassloaderFactoryImpl.java [manta-configuration-logic]'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
