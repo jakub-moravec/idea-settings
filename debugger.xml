@@ -77,6 +77,17 @@
       <option name="INCLUDE" value="true" />
     </filter>
   </component>
+  <component name="NodeRendererSettings">
+    <Renderer ID="ToStringRenderer">
+      <option name="USE_CLASS_FILTERS" value="true" />
+    </Renderer>
+    <Renderer ID="ClassRenderer">
+      <option name="SHOW_DECLARED_TYPE" value="true" />
+    </Renderer>
+  </component>
+  <component name="ViewsSettings">
+    <option name="HIDE_NULL_ARRAY_ELEMENTS" value="false" />
+  </component>
   <component name="XDebuggerSettings">
     <data-views />
     <general>
