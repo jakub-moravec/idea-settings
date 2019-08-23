@@ -4,6 +4,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*ftl" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -23,7 +24,6 @@
     <mask>*.java</mask>
     <mask>*.ftl</mask>
     <mask>*igc*</mask>
-    <mask>*ftl</mask>
     <mask>*js*</mask>
     <mask>*js</mask>
     <mask>*java</mask>
@@ -31,5 +31,6 @@
     <mask>*json</mask>
     <mask>*xml</mask>
     <mask>pom.xml</mask>
+    <mask>*ftl</mask>
   </component>
 </application>
