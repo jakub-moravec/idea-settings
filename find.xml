@@ -16,7 +16,6 @@
     <mask>xml</mask>
     <mask>*pom.xml</mask>
     <mask>*codemirror.js</mask>
-    <mask>*css</mask>
     <mask>*properties</mask>
     <mask>*scenario.xml</mask>
     <mask>*mssql*</mask>
@@ -32,5 +31,6 @@
     <mask>*java</mask>
     <mask>*json</mask>
     <mask>*bat</mask>
+    <mask>*css</mask>
   </component>
 </application>
