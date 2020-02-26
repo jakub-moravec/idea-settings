@@ -1,9 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="DEV-5947  Include the maximum number of revisions into license key and force it" />
-    <option name="defaultScopeName" value="DEV-5947  Include the maximum number of revisions into license key and force it" />
+    <option name="customScope" value="DEV-4445  Text replace parameters for all SQL/text based scanners" />
+    <option name="defaultScopeName" value="DEV-4445  Text replace parameters for all SQL/text based scanners" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
-    <option name="SEARCH_SCOPE" value="DEV-5947  Include the maximum number of revisions into license key and force it" />
+    <option name="SEARCH_SCOPE" value="DEV-4445  Text replace parameters for all SQL/text based scanners" />
+    <option name="FILE_MASK" value="*json" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -26,11 +27,11 @@
     <mask>*.xml</mask>
     <mask>pom.xml</mask>
     <mask>*ftl</mask>
-    <mask>*json</mask>
     <mask>*bat</mask>
     <mask>*css</mask>
     <mask>*properties</mask>
     <mask>*xml</mask>
     <mask>*java</mask>
+    <mask>*json</mask>
   </component>
 </application>
