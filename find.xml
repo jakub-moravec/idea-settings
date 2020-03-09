@@ -22,7 +22,6 @@
     <mask>*.ftl</mask>
     <mask>*igc*</mask>
     <mask>*js*</mask>
-    <mask>*js</mask>
     <mask>*.xml</mask>
     <mask>pom.xml</mask>
     <mask>*ftl</mask>
@@ -30,7 +29,8 @@
     <mask>*css</mask>
     <mask>*properties</mask>
     <mask>*xml</mask>
-    <mask>*java</mask>
     <mask>*json</mask>
+    <mask>*java</mask>
+    <mask>*js</mask>
   </component>
 </application>
