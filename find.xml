@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="DEV-8752  Configurator links - use DNS and add target=&quot;_blank&quot;" />
-    <option name="defaultScopeName" value="DEV-8752  Configurator links - use DNS and add target=&quot;_blank&quot;" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
-    <option name="SEARCH_SCOPE" value="DEV-8752  Configurator links - use DNS and add target=&quot;_blank&quot;" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
