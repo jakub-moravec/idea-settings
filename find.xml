@@ -21,7 +21,6 @@
     <mask>*.ftl</mask>
     <mask>*igc*</mask>
     <mask>*js*</mask>
-    <mask>*.xml</mask>
     <mask>pom.xml</mask>
     <mask>*ftl</mask>
     <mask>*bat</mask>
@@ -34,5 +33,6 @@
     <mask>*xml</mask>
     <mask>*java</mask>
     <mask>*pom.xml</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
