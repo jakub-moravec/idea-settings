@@ -4,11 +4,10 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.jsp</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
-    <mask>*.js</mask>
     <mask>*.css</mask>
     <mask>.*ftl</mask>
     <mask>CSV*java</mask>
@@ -35,5 +34,6 @@
     <mask>*.json</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.js</mask>
   </component>
 </application>
