@@ -1,11 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="scenarios" type="PLAIN_TEXT" />
       <mapping ext="prm" type="PLAIN_TEXT" />
-      <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping ext="ldif" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
+      <mapping ext="keystore" type="PLAIN_TEXT" />
       <removed_mapping ext="ftl" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
