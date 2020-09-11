@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="File '...\Internal\AdminGUI\trunk\manta-admin-gui-dispatcher\src\main\java\eu\profinit\manta\admin\gui\backend\swagger\AdminGuiApiV1SwaggerConfig.java [manta-admin-gui-dispatcher]'" />
+    <option name="defaultScopeName" value="File '...\Internal\AdminGUI\trunk\manta-admin-gui-dispatcher\src\main\java\eu\profinit\manta\admin\gui\backend\swagger\AdminGuiApiV1SwaggerConfig.java [manta-admin-gui-dispatcher]'" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="File '...\Internal\AdminGUI\trunk\manta-admin-gui-dispatcher\src\main\java\eu\profinit\manta\admin\gui\backend\swagger\AdminGuiApiV1SwaggerConfig.java [manta-admin-gui-dispatcher]'" />
     <mask>*.jsp</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
