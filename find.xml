@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="DEV-11378  manta-admin-gui-log-viewer-logic test fails on release server" />
-    <option name="defaultScopeName" value="DEV-11378  manta-admin-gui-log-viewer-logic test fails on release server" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
-    <option name="SEARCH_SCOPE" value="DEV-11378  manta-admin-gui-log-viewer-logic test fails on release server" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.jsp</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
