@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="DEV-9949  KB Checker - CheckerAction should check instance name, not transformation name" />
+    <option name="defaultScopeName" value="DEV-9949  KB Checker - CheckerAction should check instance name, not transformation name" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="DEV-9949  KB Checker - CheckerAction should check instance name, not transformation name" />
     <mask>*.jsp</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
