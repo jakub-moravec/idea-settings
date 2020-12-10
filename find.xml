@@ -2,12 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
     <option name="showResultsInSeparateView" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.scss" />
+    <option name="FILE_MASK" value="*.properties" />
     <mask>*.mxml</mask>
     <mask>*.css</mask>
     <mask>.*ftl</mask>
@@ -29,7 +27,6 @@
     <mask>*pom.xml</mask>
     <mask>*.json</mask>
     <mask>*.js</mask>
-    <mask>*.properties</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*css</mask>
@@ -38,5 +35,6 @@
     <mask>*Scenario.xml</mask>
     <mask>*json</mask>
     <mask>*.scss</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
