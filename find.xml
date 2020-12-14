@@ -1,16 +1,13 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="regularExpressions" value="true" />
     <option name="showResultsInSeparateView" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Scenario.xml" />
-    <mask>*.mxml</mask>
+    <option name="FILE_MASK" value="*.sql" />
     <mask>*.css</mask>
     <mask>.*ftl</mask>
     <mask>CSV*java</mask>
@@ -40,5 +37,6 @@
     <mask>*.scss</mask>
     <mask>*.properties</mask>
     <mask>*Scenario.xml</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
